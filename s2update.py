@@ -22,7 +22,7 @@ SUDO_FILE = "SWRAJdmins.json"
 TOKENS = [
     "8295380670:AAECAAYO4XlOJTYe6xMX--ceGaPHfkSQ_YQ",
     
-    "8930970320:AAFjPUWfG8Gqf0FDEtOTqkxdTepWttFFB5s"
+    "8930970320:AAFjPUWfG8Gqf0FDEtOTqkxdTepWttFFB5"
 ]
 
 HEARTS = ["🩷", "❤️", "🧡", "💛", "💚", "🩵", "💙", "💜", "🖤", "🩶", "🤎", "🤍"]
