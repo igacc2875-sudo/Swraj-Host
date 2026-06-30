@@ -20,9 +20,9 @@ OWNER_ID = 8061644095
 SUDO_FILE = "SWRAJdmins.json"
 
 TOKENS = [
-    "8295380670:AAECAAYO4XlOJTYe6xMX--ceGaPHfkSQ_YQ",
+    "8915961339:AAEUovs3-nRRkoJvKXK8agE9lhJ8ULp3dxc",
     
-    "8930970320:AAFjPUWfG8Gqf0FDEtOTqkxdTepWttFFB5"
+    "8984488473:AAHUT6TxvWBVxLVUqpkKVItc8seezc6N_rw"
 ]
 
 HEARTS = ["🩷", "❤️", "🧡", "💛", "💚", "🩵", "💙", "💜", "🖤", "🩶", "🤎", "🤍"]
@@ -280,24 +280,24 @@ async def start_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
 @only_sudo
 async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = (
-        f"SWRAJ KENG MULTI/SINGLE NO LOAD {h()}\n\n"
+        f"LOLLAGANG MULTI/SINGLE NO LOAD {h()}\n\n"
         f"{h()} 𝗡𝗖𝗦 / 𝗚𝗖\n"
         f"!opnc <text> | !stopopnc\n"
         f"!ncemo <text> | !stopncemo\n"
         f"!snc | !snc1 up to !snc6 <text> | !stopsnc\n"
         f"!kengnc <name> | !stopkengnc\n"
-        f"!swrjnc <name> | !stopswrjnc\n"
+        f"!lollanc <name> | !stoplollanc\n"
         f"!spmnc <text> | !stopspmnc\n"
         f"!delaync <sec>\n\n"
         f"{h()} 𝗦𝗟𝗜𝗗𝗘 & 𝗦𝗣𝗔𝗠\n"
         f"!spm <text> | !stopspm\n"
         f"!rspm <name> | !stoprspm\n"
-        f"!swrjspam <text> | !stopswrjspam\n"
+        f"!lollaspam <text> | !stoplollaspam\n"
         f"!slidespam <text> (reply) | !stopslidespam\n"
         f"!delayspm <sec> | !delayrspm <sec>\n\n"
         f"{h()} 𝗥𝗘𝗣𝗟𝗬 & 𝗦𝗪𝗜𝗣𝗘 (𝗧𝗮𝗿𝗴𝗲𝘁 𝗟𝗼𝗰𝗸)\n"
-        f"!replyswrj (reply/mention)\n"
-        f"!stopreplyswrj (reply/mention)\n"
+        f"!replylolla (reply/mention)\n"
+        f"!stopreplylolla (reply/mention)\n"
         f"!swipe (reply/mention)\n"
         f"!stopswipe (reply/mention)\n\n"
         f"{h()} 𝗠𝗜𝗦𝗖 / 𝗦𝗨𝗗𝗢\n"
